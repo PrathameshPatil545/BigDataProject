@@ -26,10 +26,6 @@
 	{
 	"csv_relative_url":"BigDataProject/refs/heads/master/olist_sellers_dataset.csv",
 	"file_name":"olist_sellers_dataset.csv"
-	},
-	{
-	"csv_relative_url":"BigDataProject/refs/heads/master/product_category_name_translation.csv",
-	"file_name":"product_category_name_translation.csv"
 	}
 
 
